@@ -31,6 +31,7 @@ client.writeData({
   data: {
     cartHidden: true,
     cartItems: [],
+    itemsCount: 0,
   },
 });
 
